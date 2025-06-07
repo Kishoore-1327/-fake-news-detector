@@ -26,5 +26,5 @@ This project uses Natural Language Processing (NLP) and Machine Learning to dete
 4. Run all the cells.
 5. Type any news headline or paragraph to check if it's real or fake!
 
-## ✅ Output Example
+
 
